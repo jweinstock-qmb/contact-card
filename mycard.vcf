@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Weinstock;Julian;;;
+FN:Julian Weinstock
+ORG:QMB Inc.
+TITLE:Chief Technology Officer
+TEL;TYPE=CELL:+16172130030
+TEL;TYPE=WORK,VOICE:+16172130030
+EMAIL;TYPE=INTERNET,WORK:jweinstock@qmbdevices.com
+URL:https://qmb.ai
+ADR;TYPE=WORK:;;;Boston;MA;;USA
+NOTE:Let’s connect!
+END:VCARD
